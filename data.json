@@ -7561,5 +7561,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "published_at": "2026-09-30T19:49:59.704870+00:00"
     }
-  ]
+  ],
+  "checked_at": "2026-10-07T18:23:47.625765+00:00",
+  "update_schedule": "daily",
+  "partial_check": false
 }
