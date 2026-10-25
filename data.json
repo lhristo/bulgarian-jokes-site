@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-19T13:14:16.624998+00:00",
+  "updated_at": "2026-10-25T11:28:30.834863+00:00",
   "items": [
+    {
+      "id": 846,
+      "text": "- Какво има за ядене?\n- Паниран език.\n- Няма да ям нещо, което е било в устата на животно.\n- Тогава ще ти сваря яйца!",
+      "category": "Семейство",
+      "source_url": "https://ritnikotkata.com/vicove/14516",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-10-25T11:28:30.834863+00:00"
+    },
+    {
+      "id": 845,
+      "text": "- Скъпи, излизам, нещо трябва ли ти?\n- Не, това е достатъчно.",
+      "category": "Семейство",
+      "source_url": "https://ritnikotkata.com/vicove/14527",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-10-25T11:28:30.701472+00:00"
+    },
+    {
+      "id": 844,
+      "text": "Мъж към жена си:\n- Ох, жено, влезе ми треска в пръста, ела да я извадиш!\n- Аз колко пъти съм ти казвала да не си чешеш главата!",
+      "category": "Семейство",
+      "source_url": "https://ritnikotkata.com/vicove/14546",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-10-25T11:28:30.672970+00:00"
+    },
+    {
+      "id": 843,
+      "text": "Жена посещава мъжа си в затвора:\n- Скъпи, трябва да ти призная нещо, изневерих ти!\n- И аз, скъпа...\n- Но аз не исках!\n- Ох, ако знаеш аз как не исках...",
+      "category": "Семейство",
+      "source_url": "https://ritnikotkata.com/vicove/14562",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-10-25T11:28:30.524844+00:00"
+    },
+    {
+      "id": 842,
+      "text": "- Пеше, вземи си, маме, фенерче. По улиците кьорава лампа не свети.\n- Майко, какви лампи? Навънка е светло.\n- Светло е сега, маме. После ще стане тъмно. Или искаш и ти, като брат ти?\n- Какво е направил брат ми?\n- Ми и той не искаше да си вземе фенерче и виждаш ли какво ми доведе за снаха?",
+      "category": "Семейство",
+      "source_url": "https://ritnikotkata.com/vicove/14571",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-10-25T11:28:30.387731+00:00"
+    },
     {
       "id": 841,
       "text": "- Скъпи, защо не ядеш? Нали, каза че си гладен като вълк!\n- Ти къде си видяла вълк да яде спанак?!",
@@ -7571,7 +7616,7 @@
       "published_at": "2026-09-30T19:49:59.704870+00:00"
     }
   ],
-  "checked_at": "2026-10-24T10:59:31.644732+00:00",
+  "checked_at": "2026-10-25T11:28:31.839173+00:00",
   "update_schedule": "daily",
   "partial_check": false
 }
