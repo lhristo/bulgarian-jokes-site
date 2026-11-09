@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-05T14:39:13.704403+00:00",
+  "updated_at": "2026-11-09T16:17:54.071474+00:00",
   "items": [
+    {
+      "id": 853,
+      "text": "Гост на замък пита стария иконом:\n- В замъка има ли духове?\n- Няма, сър! Аз съм тук от 267 години и не съм видял нито един!",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14777",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:54.071474+00:00"
+    },
+    {
+      "id": 852,
+      "text": "Майка все ми се караше: \"Спри се! Нито ще избягат кръчмите, нито дискотеките.\"\nАма ей на.. Избягаха!",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14779",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:53.935022+00:00"
+    },
+    {
+      "id": 851,
+      "text": "Немска туристка към наш гайдар:\n- Господине, ако спрете да стискате животното така, то няма да издава такива звуци",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14780",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:53.827259+00:00"
+    },
+    {
+      "id": 850,
+      "text": "- Красива си, но не си това, което търся...\n- А ти какво търсиш?\n- Летни гуми...",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14782",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:53.693571+00:00"
+    },
+    {
+      "id": 849,
+      "text": "Като видя, че някоя ми пише \"ЗДРАВЕЙ ТЕ\" и отвътре ми идва да ѝ напиша - \"ЧА О\"",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14786",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:53.636420+00:00"
+    },
+    {
+      "id": 848,
+      "text": "Плановете ми за тази вечер са изцяло сексуални... Зае*авам всичко и си лягам.",
+      "category": "Разни",
+      "source_url": "https://ritnikotkata.com/vicove/14797",
+      "source_name": "Ритни котката",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "published_at": "2026-11-09T16:17:53.572073+00:00"
+    },
     {
       "id": 847,
       "text": "Един човек вървял по улицата и ръсел нещо по земята. Вървял си и ръсел, вървял си и ръсел...\nМинал покрай един магазин, но продължил да ръси.\nМагазинерът излязъл и го попитал:\n- Абе, какво ръсиш тука, бе? Допреди малко метох!\n- Ръся против слонове.\n- Ама тука няма слонове, бе!\n- Еми няма, щото ръся!",
@@ -7625,7 +7679,7 @@
       "published_at": "2026-09-30T19:49:59.704870+00:00"
     }
   ],
-  "checked_at": "2026-11-08T13:23:56.184583+00:00",
+  "checked_at": "2026-11-09T16:17:55.075836+00:00",
   "update_schedule": "daily",
   "partial_check": false
 }
